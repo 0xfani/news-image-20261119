@@ -4,11 +4,13 @@
 [![rank](https://make.fun/badge/news-image-20261119/0xfani/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 [![reward](https://make.fun/badge/news-image-20261119/0xfani/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
-One front page of the world's news on Thursday 19 November 2026: 42 stories from
+One front page of the world's news on Thursday 19 November 2026: 48 stories from
 seven regions and seven fields. Three illustrated lead stories (the Trump-Xi-Putin
 summit in Shenzhen, the World Court's Rohingya genocide ruling, Anthropic's record
-market debut), ten illustrated cards, a world map with numbered pins, 29 briefs and
-a date check naming stories left out because they were first reported on 18 November.
+market debut), twelve more illustrated cards in two rows of six (15 in all, with a
+US-Kenya mining deal and Pete Rose's pardon added in v3), a world map with numbered
+pins, 33 numbered briefs (Kyiv, Lebanon, Syria, Pakistan and Tanzania added) and a
+green date check naming stories left out because they were first reported on 18 November.
 
 - `entry.png` is the picture (1024 x 1024 PNG). It was drawn with Pillow from a
   checked story list; the illustrations were made with ChatGPT image generation and
